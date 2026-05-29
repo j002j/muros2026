@@ -5,7 +5,7 @@ import time
 # --- KONFIGURATION ---
 LED_PIN = 13       # LED-Datenkabel an Pin 13
 BUTTON_PIN = 16    # Pin 16 als Eingang
-NUM_PIXELS = 140    # <--- HIER DEINE EXAKTE ANZAHL AN LEDS EINTRAGEN! (z.B. 8, 12, 30, 60...)
+NUM_PIXELS = 241   # <--- HIER DEINE EXAKTE ANZAHL AN LEDS EINTRAGEN! (z.B. 8, 12, 30, 60...)
 
 # NeoPixel initialisieren
 strip = neopixel.NeoPixel(machine.Pin(LED_PIN), NUM_PIXELS)
