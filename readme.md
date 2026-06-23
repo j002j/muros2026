@@ -1,7 +1,7 @@
 # Ocean Oxygen Physicalisation
 
 <p align="center">
-  <img src="muros2026/20260529_194259.jpg" alt="Titelbild" width="100%">
+  <img src="muros2026/titlepic.jpg" alt="Titelbild" width="100%">
 </p>
 
 
