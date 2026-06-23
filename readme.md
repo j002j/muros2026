@@ -1,6 +1,7 @@
 # Ocean Oxygen Physicalisation
 
-![Uploading 20260529_194259.jpg…]()
+![Titelbild](muros2026/20260529_194259.jpg)
+
 
 An interactive physical computing installation that visualises dissolved oxygen patterns in ocean Oxygen Minimum Zones (OMZs) through light, depth and material.
 
