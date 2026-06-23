@@ -149,23 +149,29 @@ https://www.figma.com/board/NZpllUfHZYUcmpAbdbsu1X/Morus2026
 
 Scientific and data references:
 
-NOAA Ocean Exploration – What is an oxygen minimum zone?
+NOAA Ocean Exploration
 https://oceanexplorer.noaa.gov/ocean-fact/omz/
-NOAA National Centers for Environmental Information – World Ocean Atlas
+
+NOAA National Centers for Environmental Information, World Ocean Atlas
 https://www.ncei.noaa.gov/products/world-ocean-atlas
+
 World Ocean Atlas 2023 Data
 https://www.ncei.noaa.gov/access/world-ocean-atlas-2023/
-Copernicus Marine – Global Ocean Biogeochemistry Hindcast
+
+Copernicus Marine, Global Ocean Biogeochemistry Hindcast
 https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_BGC_001_029/description
-Karstensen et al. – Oxygen minimum zones in the eastern tropical Atlantic and Pacific oceans
+
+Karstensen et al., Oxygen minimum zones in the eastern tropical Atlantic and Pacific oceans
 https://oceanrep.geomar.de/7187/
 
 Technical references:
 
 MicroPython
 https://micropython.org/
+
 Thonny Python IDE
 https://thonny.org/
+
 Adafruit NeoPixel Überguide
 https://learn.adafruit.com/adafruit-neopixel-uberguide
 
